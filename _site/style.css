@@ -1,0 +1,17 @@
+#header {
+    background-color: mediumturquoise;
+    text-align: center;
+    text-decoration: blue; 
+}
+ #for links
+ 
+
+   A {
+    color: red; 
+   }
+   A:visited {
+    color: #5E0E69; 
+   }
+   A:active {
+    color: #ffff00; 
+   }

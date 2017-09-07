@@ -1,0 +1,23 @@
+#header {
+    background-color: mediumturquoise;
+    text-align: center; 
+}
+ /* #for links */
+
+   A {
+    color: red; 
+   }
+   A:visited {
+    color: #5E0E69; 
+   }
+   A:active {
+    color: #ffff00; 
+   }
+/* 
+html { 
+    background: url(images/green.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } */
