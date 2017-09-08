@@ -1,10 +1,8 @@
 #header {
-    background-color: mediumturquoise;
-    text-align: center;
-    text-decoration: blue; 
+    background-color: #098909;
+    text-align: center; 
 }
- #for links
- 
+ /* #for links */
 
    A {
     color: red; 
@@ -15,3 +13,18 @@
    A:active {
     color: #ffff00; 
    }
+
+   /* p{
+      animation: cubic-bezier();
+   } */
+
+   body {
+
+    background-image: url(images/pattern.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-color: #464646;
+    
+    /* background: url('images/pattern.jpg') no-repeat fixed center;  */ 
+  }
+
