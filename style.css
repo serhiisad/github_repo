@@ -1,30 +1,35 @@
 #header {
-    background-color: #098909;
+    background-color: #1E531E; 
     text-align: center; 
+    
 }
- /* #for links */
+
+  p{
+    font-family:  Arial;
+    font-size: 45 px;
+  }
 
    A {
-    color: red; 
+    color: #0205B8; 
+    font-size: 45 px;
+    
    }
    A:visited {
     color: #5E0E69; 
    }
    A:active {
-    color: #ffff00; 
+    color: #FF0000; 
    }
 
-   /* p{
-      animation: cubic-bezier();
-   } */
+   #backLink {
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-size: 35 px;
+   }
 
    body {
-
-    background-image: url(images/pattern.jpg);
+    background-image: url('images/bluesky.jpg');
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-color: #464646;
-    
-    /* background: url('images/pattern.jpg') no-repeat fixed center;  */ 
   }
-
