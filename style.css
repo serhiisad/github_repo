@@ -16,9 +16,8 @@
    }
 
    A:active {
-    color: #FF0000; 
+    color: rgb(255, 0, 0); 
    }
-
 
    body {
     
@@ -69,13 +68,19 @@
   #userslist {
     color: white;
     text-align: center;
-    list-style-position: inside ;
   }
 
   #userpage {
     color: white;
     text-align: center;
-    list-style-position: inside;
     text-indent: 50px;
     margin: 70px;
+  }
+
+  ol.personal{
+   list-style-type: none;
+  }
+
+  ol.general{
+    list-style-position: inside;
   }
