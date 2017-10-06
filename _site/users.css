@@ -1,0 +1,59 @@
+body{
+
+    background-image: url('images/forest.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
+
+#userslist {
+
+    width: 550px;
+    background-color: #D4D488;
+    border: solid green;
+   
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+ol.general{
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+.user{
+    width: 25%;
+    height: 25%;
+
+    margin-right: 20%;
+    margin-left: 30%;
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.user-content{
+    display: none;
+    text-align: justify;
+}
+
+.user:hover .user-content {
+    display: block;
+}
+
+   A:visited {
+    color: #1EC9CC; 
+   }
+
+   A:active {
+    color: rgb(255, 0, 0); 
+   }
+
+#back-link{
+    font: italic 20px monospace;
+    
+}

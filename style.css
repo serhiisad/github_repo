@@ -1,8 +1,7 @@
 
   p{
     font-family:  Arial;
-    font-size: 45 px;
-
+    font-size: 45px;
     text-align: justify;
   }
 
@@ -65,20 +64,9 @@
     font-size: 18px;
   }
 
-  #userslist {
-    color: white;
-    text-align: center;
-  }
-
-  #userpage {
-    color: white;
-    text-align: center;
-    text-indent: 50px;
-    margin: 70px;
-  }
-
   ol.personal{
    list-style-type: none;
+   text-align: center;
   }
 
   ol.general{
