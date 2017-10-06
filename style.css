@@ -72,3 +72,10 @@
   ol.general{
     list-style-position: inside;
   }
+
+ #userpage {
+    color: white;
+    text-align: center;
+    text-indent: 50px;
+    margin: 70px;
+  }
